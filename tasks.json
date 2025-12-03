@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Reading Book",
+        "completed": true
+    },
+    {
+        "title": "Cooking Food",
+        "completed": false
+    },
+    {
+        "title": "Going to School",
+        "completed": false
+    },
+    {
+        "title": "Creating Website",
+        "completed": false
+    }
+]
